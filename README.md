@@ -1,2 +1,2 @@
-# arrasio
-A fan-made sequel to diep.io
+# Arrasio
+A fan-made sequel to Diep.io.
